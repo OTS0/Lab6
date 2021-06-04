@@ -4,7 +4,6 @@
  */
 import java.io.IOException;
 
-import Client.Client;
 import Exception.*;
 import Server.Server;
 
