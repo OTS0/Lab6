@@ -13,6 +13,5 @@ public class Main {
      */
     public static void main(String[] args) throws IOException, ClassNotFoundException, IdException, CollectionException, NullException, IndexNotFoundException {
         Server server = new Server();
-        System.out.println("Ура");
     }
 }
